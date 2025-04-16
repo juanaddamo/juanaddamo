@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-Hola mi nombre es Juan y trabajo en el area de sistemas de información.
+## Hola mi nombre es Juan y trabajo en el area de sistemas de información.
 
 <!--
 **juanaddamo/juanaddamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
